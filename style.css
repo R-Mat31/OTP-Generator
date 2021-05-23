@@ -1,0 +1,15 @@
+body{
+ background : linear-gradient(135deg, orange, teal, purple);
+}
+#aim{
+ width : 20%;
+ margin-top : 10px;
+}
+button{
+ margin-top : 20px;
+ border-radius : 20px;
+ background-color : darkorange;
+}
+h3{
+ color : darkred;
+}
